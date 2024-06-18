@@ -30,7 +30,7 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 1. Clona el repositorio a tu máquina local.
 
 ```bash
-git clone https://github.com/tu-usuario/alura-bank.git
+git clone https://github.com/DDansAbelenda/alura-bank.git
 cd alura-bank
 ```
 
